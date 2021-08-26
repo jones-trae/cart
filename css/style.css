@@ -1,0 +1,16 @@
+html{
+  background-color: bisque}
+
+  body{
+    font-size: 20px;
+    font-family: 'helvetica', sans-serif;
+    text-align:center;
+  }
+
+  #cart-container{
+    text-align:center;
+    border: 1px solid black;
+    padding: 10px 0;
+    
+  }
+  /* TODO: Make it awesome */
